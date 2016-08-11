@@ -1,5 +1,5 @@
 body {
-    background-color: #161616;
+    background-color: #100345;
     color: #D7CEC7;
     font-size: 150%;
     line-height: 1.4;
@@ -46,9 +46,9 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: blue;
     font-size: 110%;
-    background:gray;
+    background:green;
     padding: 4px;
     border:1px solid white;
 }
@@ -75,7 +75,7 @@ img{
     width: 250px;
     margin: 15px;
     display: inline-block;
-    vertical-align: top;   
+    vertical-align: bottom;   
 }
 .box img{
     margin: 0;
