@@ -1,6 +1,6 @@
 body {
-    background-color: 00FFFF;
-    color: #00FFFF;
+    background-color: black;
+    color: black;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -26,12 +26,12 @@ h2{
 
 a {
     color: #32763F;
-    text-decoration: overline;
+    text-decoration: none;
 }
 
 a:visited {
     color: #9FC080;
-    text-decoration: overline;
+    text-decoration: none;
 }
 
 img{
