@@ -7,21 +7,21 @@ body {
 
 h1{
     margin-top:0px;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #AEB7A7;
+    margin-bottom: 100px;
+    border-bottom: 10px solid #AEB7A7;
 }
 
 h3{
-    margin:0px;
+    margin:100px;
     color: #CED7A7;
 }
 
 h2{
-    margin:0px;
+    margin:100px;
 }
 
 #main {
-    padding: 20px;
+    padding: 200px;
 }
 
 a {
@@ -35,7 +35,7 @@ a:visited {
 }
 
 img{
-    padding: 15px;
+    padding: 150px;
 }
 
 .headshot{
@@ -67,7 +67,7 @@ img{
 }
 
 .half{
-    width: 48%;
+    width: 98%;
     float: left;
 }
 
