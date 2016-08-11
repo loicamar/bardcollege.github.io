@@ -31,7 +31,7 @@ a {
 
 a:visited {
     color: #9FC080;
-    text-decoration: none;
+    text-decoration: overline;
 }
 
 img{
