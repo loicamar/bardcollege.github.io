@@ -48,9 +48,9 @@ img{
     width:70%;
     color: blue;
     font-size: 110%;
-    background:green;
+    background:blue;
     padding: 4px;
-    border:1px solid white;
+    border:1px solid blue;
 }
 
 .button {
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: #D7CEC7;
+    background-color: #00FFFF;
     color: #D7CEC7;
 }
 
